@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/22aa6430-5c84-4a7f-8a63-ba55c04ac85f)
-
-![image](https://github.com/user-attachments/assets/afd3033f-4244-4292-a795-c144a6e5a151)# 🧪 EDA: Diagnosing Diabetes
+# 🧪 EDA: Diagnosing Diabetes
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Pandas](https://img.shields.io/badge/Library-pandas-lightgrey)
